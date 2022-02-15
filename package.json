@@ -12,7 +12,7 @@
   "typings": "dist/index.d.ts",
   "respository": {
     "type": "git",
-    "url": "git+https://github.com/rmbychen/doc/monitor-doc",
+    "url": "git+https://rmbychen.github.io/doc",
     "branch": "master",
     "platform": "github"
   },
