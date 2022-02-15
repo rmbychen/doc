@@ -3,8 +3,6 @@ import { defineConfig } from 'dumi';
 export default defineConfig({
   title: 'tudy-front-end',
   mode: 'site',
-  favicon: 'https://assets.lrts.me/images/favicon.ico',
-  logo: 'https://assets.lrts.me/fed-lrts-wap/img/logo.a0dde01.png',
   description: 'tudy-front-end 监控系统文档',
   // locales: [['zh-CN', '中文'], ['en-US', 'English']],
   outputPath: 'docs',
