@@ -4,8 +4,6 @@
   "scripts": {
     "start": "dumi dev",
     "build": "dumi build",
-    "test": "umi-test",
-    "test:coverage": "umi-test --coverage",
     "commit": "git add . && git cz",
     "prettier": "prettier --write \"**/*.{js,jsx,tsx,ts,less,md,json}\""
   },
