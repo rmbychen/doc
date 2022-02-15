@@ -1,6 +1,6 @@
 ---
 hero:
-  title: doc-demo
+  title: tudy-front-end
   desc: 监控系统文档
   actions:
     - text: 快速上手
@@ -18,4 +18,4 @@ features:
 footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org)
 ---
 
-## 你好 doc-demo!
+## 你好 tudy-front-end!

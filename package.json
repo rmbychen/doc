@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "doc-demo",
+  "name": "study-front-end",
   "scripts": {
     "start": "dumi dev",
     "build": "dumi build",

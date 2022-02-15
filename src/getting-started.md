@@ -1,6 +1,6 @@
 ---
 nav:
-  title: Getting Started
+  title: begin
   order: 1
 ---
 

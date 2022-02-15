@@ -1,6 +1,6 @@
 ---
 hero:
-  title: doc-demo
+  title: tudy-front-end
   desc: a monitor system doc
   actions:
     - text: Getting Started
@@ -18,4 +18,4 @@ features:
 footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org)
 ---
 
-## Hello doc-demo!
+## Hello tudy-front-end!

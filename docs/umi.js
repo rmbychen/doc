@@ -9750,13 +9750,17 @@
             { className: 'markdown' },
             o.a.createElement(
               'h2',
-              { id: 'hello-doc-demo' },
+              { id: 'hello-tudy-front-end' },
               o.a.createElement(
                 i['AnchorLink'],
-                { to: '#hello-doc-demo', 'aria-hidden': 'true', tabIndex: -1 },
+                {
+                  to: '#hello-tudy-front-end',
+                  'aria-hidden': 'true',
+                  tabIndex: -1,
+                },
                 o.a.createElement('span', { className: 'icon icon-link' }),
               ),
-              'Hello doc-demo!',
+              'Hello tudy-front-end!',
             ),
           ),
         );
@@ -12302,17 +12306,17 @@
             { className: 'markdown' },
             o.a.createElement(
               'h2',
-              { id: '\u4f60\u597d-doc-demo' },
+              { id: '\u4f60\u597d-tudy-front-end' },
               o.a.createElement(
                 i['AnchorLink'],
                 {
-                  to: '#\u4f60\u597d-doc-demo',
+                  to: '#\u4f60\u597d-tudy-front-end',
                   'aria-hidden': 'true',
                   tabIndex: -1,
                 },
                 o.a.createElement('span', { className: 'icon icon-link' }),
               ),
-              '\u4f60\u597d doc-demo!',
+              '\u4f60\u597d tudy-front-end!',
             ),
           ),
         );
@@ -27830,7 +27834,7 @@
   },
   q3YX: function (e) {
     e.exports = JSON.parse(
-      '{"menus":{"en-US":{"/getting-started":[{"path":"/getting-started","title":"Getting Started","meta":{}}],"/help":[{"path":"/help","title":"Help","meta":{}}],"*":[{"path":"/","title":"Hello doc-demo!","meta":{}}],"/admin":[{"path":"/admin/test","title":"admin","meta":{"order":3}}],"/sdk":[{"path":"/sdk/core","title":"design","meta":{"order":1}},{"path":"/sdk/config","title":"config","meta":{"order":2}}]},"zh-CN":{"/zh-CN/getting-started":[{"path":"/zh-CN/getting-started","title":"\u5feb\u901f\u4e0a\u624b","meta":{}}],"/zh-CN/help":[{"path":"/zh-CN/help","title":"\u5e2e\u52a9","meta":{}}],"*":[{"path":"/zh-CN","title":"\u4f60\u597d doc-demo!","meta":{}}],"/zh-CN/admin":[{"path":"/zh-CN/admin/test","title":"admin","meta":{"order":3}}],"/zh-CN/sdk":[{"path":"/zh-CN/sdk/core","title":"\u8bbe\u8ba1","meta":{"order":1}},{"path":"/zh-CN/sdk/config","title":"\u914d\u7f6e","meta":{"order":2}}]}},"locales":[{"name":"en-US","label":"English"},{"name":"zh-CN","label":"\u4e2d\u6587"}],"navs":{"en-US":[{"title":"Getting Started","order":1,"path":"/getting-started"},{"title":"SDK","order":2,"path":"/sdk"},{"title":"admin","order":3,"path":"/admin"},{"path":"/help","title":"Help"}],"zh-CN":[{"title":"\u5feb\u901f\u4e0a\u624b","order":1,"path":"/zh-CN/getting-started"},{"title":"SDK","order":2,"path":"/zh-CN/sdk"},{"title":"\u540e\u53f0","order":3,"path":"/zh-CN/admin"},{"title":"\u5e2e\u52a9","path":"/zh-CN/help"}]},"title":"doc-demo","logo":"https://assets.lrts.me/fed-lrts-wap/img/logo.a0dde01.png","description":"doc-demo \u76d1\u63a7\u7cfb\u7edf\u6587\u6863","mode":"site","repository":{"url":"","branch":"master"},"theme":{}}',
+      '{"menus":{"en-US":{"/getting-started":[{"path":"/getting-started","title":"Getting Started","meta":{}}],"/help":[{"path":"/help","title":"Help","meta":{}}],"*":[{"path":"/","title":"Hello tudy-front-end!","meta":{}}],"/admin":[{"path":"/admin/test","title":"admin","meta":{"order":3}}],"/sdk":[{"path":"/sdk/core","title":"design","meta":{"order":1}},{"path":"/sdk/config","title":"config","meta":{"order":2}}]},"zh-CN":{"/zh-CN/getting-started":[{"path":"/zh-CN/getting-started","title":"\u5feb\u901f\u4e0a\u624b","meta":{}}],"/zh-CN/help":[{"path":"/zh-CN/help","title":"\u5e2e\u52a9","meta":{}}],"*":[{"path":"/zh-CN","title":"\u4f60\u597d tudy-front-end!","meta":{}}],"/zh-CN/admin":[{"path":"/zh-CN/admin/test","title":"admin","meta":{"order":3}}],"/zh-CN/sdk":[{"path":"/zh-CN/sdk/core","title":"\u8bbe\u8ba1","meta":{"order":1}},{"path":"/zh-CN/sdk/config","title":"\u914d\u7f6e","meta":{"order":2}}]}},"locales":[{"name":"en-US","label":"English"},{"name":"zh-CN","label":"\u4e2d\u6587"}],"navs":{"en-US":[{"title":"Getting Started","order":1,"path":"/getting-started"},{"title":"SDK","order":2,"path":"/sdk"},{"title":"admin","order":3,"path":"/admin"},{"path":"/help","title":"Help"}],"zh-CN":[{"title":"\u5feb\u901f\u4e0a\u624b","order":1,"path":"/zh-CN/getting-started"},{"title":"SDK","order":2,"path":"/zh-CN/sdk"},{"title":"\u540e\u53f0","order":3,"path":"/zh-CN/admin"},{"title":"\u5e2e\u52a9","path":"/zh-CN/help"}]},"title":"tudy-front-end","logo":"https://assets.lrts.me/fed-lrts-wap/img/logo.a0dde01.png","description":"tudy-front-end \u76d1\u63a7\u7cfb\u7edf\u6587\u6863","mode":"site","repository":{"url":"","branch":"master"},"theme":{}}',
     );
   },
   qHiR: function (e, t, n) {},
@@ -30087,7 +30091,7 @@
                 ],
                 title: 'Getting Started',
               },
-              title: 'Getting Started - doc-demo',
+              title: 'Getting Started - tudy-front-end',
             },
             {
               path: '/zh-CN/getting-started',
@@ -30112,7 +30116,7 @@
                 title: '\u5feb\u901f\u4e0a\u624b',
                 locale: 'zh-CN',
               },
-              title: '\u5feb\u901f\u4e0a\u624b - doc-demo',
+              title: '\u5feb\u901f\u4e0a\u624b - tudy-front-end',
             },
             {
               path: '/help',
@@ -30125,7 +30129,7 @@
                 nav: { path: '/help', title: 'Help' },
                 title: 'Help',
               },
-              title: 'Help - doc-demo',
+              title: 'Help - tudy-front-end',
             },
             {
               path: '/zh-CN/help',
@@ -30141,7 +30145,7 @@
                 title: '\u5e2e\u52a9',
                 locale: 'zh-CN',
               },
-              title: '\u5e2e\u52a9 - doc-demo',
+              title: '\u5e2e\u52a9 - tudy-front-end',
             },
             {
               path: '/',
@@ -30151,7 +30155,7 @@
                 filePath: 'src/index.md',
                 updatedTime: 1644919938e3,
                 hero: {
-                  title: 'doc-demo',
+                  title: 'tudy-front-end',
                   desc: '<div class="markdown"><p>a monitor system doc</p></div>',
                   actions: [
                     { text: 'Getting Started', link: '/getting-started' },
@@ -30179,13 +30183,13 @@
                 slugs: [
                   {
                     depth: 2,
-                    value: 'Hello doc-demo!',
-                    heading: 'hello-doc-demo',
+                    value: 'Hello tudy-front-end!',
+                    heading: 'hello-tudy-front-end',
                   },
                 ],
-                title: 'Hello doc-demo!',
+                title: 'Hello tudy-front-end!',
               },
-              title: 'Hello doc-demo! - doc-demo',
+              title: 'Hello tudy-front-end! - tudy-front-end',
             },
             {
               path: '/zh-CN',
@@ -30195,7 +30199,7 @@
                 filePath: 'src/index.zh-CN.md',
                 updatedTime: 1644919938e3,
                 hero: {
-                  title: 'doc-demo',
+                  title: 'tudy-front-end',
                   desc: '<div class="markdown"><p>\u76d1\u63a7\u7cfb\u7edf\u6587\u6863</p></div>',
                   actions: [
                     {
@@ -30226,14 +30230,14 @@
                 slugs: [
                   {
                     depth: 2,
-                    value: '\u4f60\u597d doc-demo!',
-                    heading: '\u4f60\u597d-doc-demo',
+                    value: '\u4f60\u597d tudy-front-end!',
+                    heading: '\u4f60\u597d-tudy-front-end',
                   },
                 ],
-                title: '\u4f60\u597d doc-demo!',
+                title: '\u4f60\u597d tudy-front-end!',
                 locale: 'zh-CN',
               },
-              title: '\u4f60\u597d doc-demo! - doc-demo',
+              title: '\u4f60\u597d tudy-front-end! - tudy-front-end',
             },
             {
               path: '/admin/test',
@@ -30248,7 +30252,7 @@
                 nav: { title: 'admin', order: 3, path: '/admin' },
                 slugs: [],
               },
-              title: 'admin - doc-demo',
+              title: 'admin - tudy-front-end',
             },
             {
               path: '/zh-CN/admin/test',
@@ -30264,7 +30268,7 @@
                 slugs: [],
                 locale: 'zh-CN',
               },
-              title: 'admin - doc-demo',
+              title: 'admin - tudy-front-end',
             },
             {
               path: '/sdk/config',
@@ -30279,7 +30283,7 @@
                 nav: { title: 'SDK', order: 2, path: '/sdk' },
                 slugs: [],
               },
-              title: 'config - doc-demo',
+              title: 'config - tudy-front-end',
             },
             {
               path: '/zh-CN/sdk/config',
@@ -30295,7 +30299,7 @@
                 slugs: [],
                 locale: 'zh-CN',
               },
-              title: '\u914d\u7f6e - doc-demo',
+              title: '\u914d\u7f6e - tudy-front-end',
             },
             {
               path: '/sdk/core',
@@ -30310,7 +30314,7 @@
                 nav: { title: 'SDK', order: 2, path: '/sdk' },
                 slugs: [],
               },
-              title: 'design - doc-demo',
+              title: 'design - tudy-front-end',
             },
             {
               path: '/zh-CN/sdk/core',
@@ -30326,7 +30330,7 @@
                 slugs: [],
                 locale: 'zh-CN',
               },
-              title: '\u8bbe\u8ba1 - doc-demo',
+              title: '\u8bbe\u8ba1 - tudy-front-end',
             },
             {
               path: '/admin',
@@ -30353,7 +30357,7 @@
               redirect: '/zh-CN/sdk/core',
             },
           ],
-          title: 'doc-demo',
+          title: 'tudy-front-end',
           component: (e) => e.children,
         },
       ];
@@ -30382,7 +30386,7 @@
                 history: Object(o['a'])(e.hot),
                 isServer: Object({ NODE_ENV: 'production' }).__IS_SERVER,
                 rootElement: 'root',
-                defaultTitle: 'doc-demo',
+                defaultTitle: 'tudy-front-end',
               },
             });
             return U(t);
