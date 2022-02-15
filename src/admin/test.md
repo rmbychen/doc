@@ -7,4 +7,4 @@ nav:
   order: 3
 ---
 
-admin
+test
